@@ -6,14 +6,14 @@
 	<artifactId>workshop-project</artifactId>
 	<version>1.0</version>
 	<packaging>war</packaging>
-	<name>workshop-project</name>
+	<name>sonar-workshop-project</name>
 	<url>http://maven.apache.org</url>
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<maven.compiler.source>17</maven.compiler.source>
 		<maven.compiler.target>17</maven.compiler.target>
-		<sonar.organization>junjun-org</sonar.organization>
-		<sonar.projectKey>junjun-org_workshop-project</sonar.projectKey>
+		<sonar.organization>zachjang-org</sonar.organization>
+		<sonar.projectKey>zachjang-org</sonar.projectKey>
 	</properties>
 	<dependencies>
 		<dependency>
